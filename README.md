@@ -1,5 +1,5 @@
 # PadraoProjetoJava
-Repositório para o desenvolvimento das atividades do curso realizado na plataforma Coursera para [Desenvolvimento Ágil com Padrões de Projeto](https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto)
+Repositório para o desenvolvimento das atividades do curso realizado na plataforma Coursera para [Desenvolvimento Ágil com Padrões de Projeto](https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto) e oferecido pelo ITA (Instituto Técnico da Aeronáutica).
 
 # Tópicos Abordados:
 
